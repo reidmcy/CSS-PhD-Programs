@@ -15,3 +15,4 @@ This is a collection of PhD programs that either are CSS or related to CSS
 |CS|CMU|http://www.csd.cs.cmu.edu/academics/doctoral/admissions-overview|
 |Media Lab | MIT|https://www.media.mit.edu/graduate-program/apply/|
 |Information| University of Washington|https://ischool.uw.edu/programs/phd|
+|Social and Engineering Systems| MIT|https://idss.mit.edu/academics/ses_doc/|
